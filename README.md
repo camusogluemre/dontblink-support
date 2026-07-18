@@ -30,4 +30,6 @@ Email us or open an issue with: your device model, iOS version, and what happene
 
 ## Privacy
 
-Game progress never leaves your device. Rewarded ads are provided by LevelPlay (ironSource); see the App Store listing's privacy section for the data practices. The game asks for App Tracking Transparency permission — declining it only means ads are non-personalized.
+Game progress never leaves your device. Rewarded ads are provided by LevelPlay (ironSource); the game asks for App Tracking Transparency permission — declining it only means ads are non-personalized.
+
+Full policy: **[Privacy Policy](PRIVACY.md)**
